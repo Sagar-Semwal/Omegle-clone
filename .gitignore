@@ -1,0 +1,7 @@
+socket/node_modules
+web/node_modules
+
+socket/.env
+web/.env.local
+
+web/.next
